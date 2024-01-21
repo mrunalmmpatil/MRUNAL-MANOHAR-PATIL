@@ -1,5 +1,5 @@
-# MRUNAL-MANOHAR-PATIL
-#### Analysis and Analytics
+#### MRUNAL-MANOHAR-PATIL
+# Analysis and Analytics
 
 - 🔭 I’m currently working on seeking practical implementation strategies to enhance my understanding and skills in Analytics 
 - 🌱 I’m currently learning Business Analytics at Albers School of Business and Economics 
